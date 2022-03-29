@@ -1,13 +1,13 @@
 # DApps Challenge
 
-The idea of this challenge is to create a dApp that has the ability to interact with [Compound’s cDAI contract in Kovan’s testnet](https://kovan.etherscan.io/address/0xF0d0EB522cfa50B716B3b1604C4F0fA6f04376AD). 
+The idea of this challenge is to create a dApp that has the ability to interact with [Compound’s cDAI contract in Kovan’s testnet](https://kovan.etherscan.io/address/0xF0d0EB522cfa50B716B3b1604C4F0fA6f04376AD).
 
 ## The dApp should be able to:
 
 - Connect to metamask
 - Get the cDAI balance and show it in the UI
 - Deposit DAI to the contract directly from the UI
-- Get the transaction history of the connected wallet
+- Get the connected wallet interactions with the cDAI contract and show it in the UI
 
 ## Additional information:
 
