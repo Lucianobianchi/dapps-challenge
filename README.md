@@ -9,6 +9,14 @@ The idea of this challenge is to create a dApp that has the ability to interact 
 - Deposit DAI to the contract directly from the UI
 - Get the connected wallet interactions with the cDAI contract and show it in the UI
 
+## Desired technologies
+
+- React
+- Next.js
+- Sass
+- Ethers.js
+- Graphql
+
 ## Additional information:
 
 - cDAI and DAI are not 1:1, we should display the amount in cDAI
