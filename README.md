@@ -16,6 +16,7 @@ The idea of this challenge is to create a dApp that has the ability to interact 
 - Sass
 - Ethers.js
 - Graphql
+- Typescript
 
 ## Additional information:
 
